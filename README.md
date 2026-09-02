@@ -7,7 +7,9 @@ The project aims to stress-test open-source and closed-source large language mod
 ## Provenance of Code and Resources 
 
 Data: https://www.kaggle.com/datasets/danofer/sarcasm
+
 Open Source LLMs: Executed locally by using Ollama deepseek-r1:8b and llama3.2:3b.
+
 Closed Source LLMs:  Gemini 3.5 Flash-Lite (Google) and GPT-5.6 Sol (OpenAI) accessed via direct web chat sessions
 
 ## Prompts Used for  Testing Closed-Source Models 
